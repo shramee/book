@@ -9,9 +9,12 @@ A key feature of the Dojo framework is its use of [commands](./framework/command
 Developers can write commands freely within Systems, and the Cairo compiler takes care of inlining the appropriate functions. 
 
 #### Essential Reading
+- [Cairo repo](https://github.com/starkware-libs/cairo)
 - [Cairo book](https://cairo-book.github.io/)
 - [Awesome Cairo](https://github.com/auditless/awesome-cairo)
 - [Starknet Book](https://book.starknet.io/)
+- [Offical Starknet site](https://www.starknet.io/en)
+
 
 ### Starknet as an L2
 
