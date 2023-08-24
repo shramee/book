@@ -34,7 +34,7 @@ The `set!` command is used to update components state.
 Use it like this:
 
 ```rust,ignore
-set !(ctx.world, (
+set !(ctx.origin, (
     Moves {
         player: ctx.origin, remaining: 10
     }, 
